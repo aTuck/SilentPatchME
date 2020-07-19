@@ -1,7 +1,7 @@
 LIBRARY D3DX9_31
 EXPORTS
     D3DXUVAtlasCreate=D3DXUVAtlasCreate_Export
-    D3DXWeldVertices=D3DXUVAtlasCreate_Export
+    D3DXWeldVertices=D3DXWeldVertices_Export
     D3DXSimplifyMesh=D3DXSimplifyMesh_Export
     D3DXDebugMute=D3DXDebugMute_Export
     D3DXCleanMesh=D3DXCleanMesh_Export
